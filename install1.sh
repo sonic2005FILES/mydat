@@ -1,3 +1,6 @@
+apt-get update
+apt-get install sudo
+apt-get install bsdutils
 apt-get install curl
 apt-get install -y build-essential
 apt-get install -y python-software-properties
